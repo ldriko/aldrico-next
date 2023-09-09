@@ -1,11 +1,14 @@
-<script>
+<script lang="ts">
 	import Card from '$lib/components/Card.svelte';
 	import CardBody from '$lib/components/CardBody.svelte';
 	import CardHead from '$lib/components/CardHead.svelte';
 	import CardList from '$lib/components/CardList.svelte';
 	import Container from '$lib/components/Container.svelte';
 
-	let stuffs = ['Data Structures & Algorithms', "Conway's Game of Life"];
+	let stuffs: ListItem[] = [
+		{ name: 'Data Structures & Algorithms', link: 'https://github.com/ldriko/algorithms' },
+		{ name: "Conway's Game of Life", link: 'https://conway.aldrico.live' }
+	];
 </script>
 
 <Container>
