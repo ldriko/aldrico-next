@@ -20,7 +20,7 @@
 				</Card>
 				<Card class="grow flex items-center justify-center">
 					<CardBody>
-						<h1 class="text-4xl">Hi! I'm Heaven</h1>
+						<h1 class="text-2xl lg:text-4xl">Hi! I'm Heaven</h1>
 					</CardBody>
 				</Card>
 			</div>
@@ -30,9 +30,9 @@
 				</CardHead>
 				<CardBody>
 					<ul class="list-disc mb-8 ms-4">
-						<li>20 years old.</li>
-						<li>Sophomore year Informatics student at UPN "V" JT.</li>
-						<li>5 years of professional software engineering experience.</li>
+						<li>21 years old.</li>
+						<li>Sophomore year Informatics student at UPN "Veteran" Jawa Timur.</li>
+						<li>6 years of professional software engineering experience.</li>
 					</ul>
 					<ul class="list-disc ms-4">
 						<li>
